@@ -1,7 +1,7 @@
 # 📌 Predictive Modeling to Enhance Customer Retention through Targeted Marketing
 
 ## 📖 Overview  
-This project explores how machine learning and deep learning models can be applied to predict customer behavior and enhance retention through personalized marketing strategies in the banking sector.
+This project explores how machine learning and deep learning models can be applied to predict customer behaviour and enhance retention through personalized marketing strategies in the banking sector.
 
 ## 🎯 Objectives  
 - Forecast customer responses to marketing campaigns  
